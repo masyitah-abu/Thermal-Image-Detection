@@ -1,2 +1,2 @@
 # Thermal Image Detection
-This is simple code of thermal detection.
+- This is simple code of image processing for thermal detection.
